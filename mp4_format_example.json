@@ -1,0 +1,30 @@
+{
+    "format": {
+        "filename": "./IMG_8168.MP4",
+        "nb_streams": 5,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "3.070000",
+        "size": "1821437",
+        "bit_rate": "4746415",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2023-06-29T19:46:43.000000Z",
+            "com.apple.quicktime.location.accuracy.horizontal": "12.646232",
+            "com.apple.quicktime.live-photo.auto": "1",
+            "com.apple.quicktime.content.identifier": "E3C9D489-9AE9-46E6-A228-9400E9112173",
+            "com.apple.quicktime.live-photo.vitality-score": "1.000000",
+            "com.apple.quicktime.live-photo.vitality-scoring-version": "0",
+            "com.apple.quicktime.location.ISO6709": "+59.9521+010.7030+183.734/",
+            "com.apple.quicktime.make": "Apple",
+            "com.apple.quicktime.model": "iPhone 12 Pro",
+            "com.apple.quicktime.software": "16.5.1",
+            "com.apple.quicktime.creationdate": "2023-06-29T21:43:22+0200"
+        }
+    }
+}
